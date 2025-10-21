@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=Clients
+PRODUCT_BUNDLE_IDENTIFIER=com.martinszuc.clients_multiplatform.Clients$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
